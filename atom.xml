@@ -1,15 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://igithub.tk</id>
-    <title>随笔思想</title>
-    <updated>2020-04-25T13:41:44.988Z</updated>
+    <title>鱼爱吃鱼头</title>
+    <updated>2020-04-25T13:57:21.960Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://igithub.tk"/>
     <link rel="self" href="https://igithub.tk/atom.xml"/>
     <subtitle>用毛泽东思想来武装自己</subtitle>
     <logo>https://igithub.tk/images/avatar.png</logo>
     <icon>https://igithub.tk/favicon.ico</icon>
-    <rights>All rights reserved 2020, 随笔思想</rights>
+    <rights>All rights reserved 2020, 鱼爱吃鱼头</rights>
+    <entry>
+        <title type="html"><![CDATA[湖南农民运动考察报告]]></title>
+        <id>https://igithub.tk/post/hu-nan-nong-min-yun-dong-kao-cha-bao-gao/</id>
+        <link href="https://igithub.tk/post/hu-nan-nong-min-yun-dong-kao-cha-bao-gao/">
+        </link>
+        <updated>2020-04-25T13:42:38.000Z</updated>
+        <summary type="html"><![CDATA[<p>毛泽东此文是为了答复当时党内党外对于农民革命斗争的责难而写的。为了这个目的，毛泽东到湖南做了三十二天的考察工作，并写了这一篇报告。当时党内以陈独秀为首的右倾机会主义者，不愿意接受毛泽东的意见，而坚持自己的错误见解。他们的错误，主要是被国民党的反动潮流所吓倒，不敢支持已经起来和正在起来的伟大的农民革命斗争。为了迁就国民党，他们宁愿抛弃农民这个最主要的同盟军，使工人阶级和共产党处于孤立无援的地位。一九二七年春夏国民党之所以敢于叛变，发动“清党运动”和反人民的战争，主要就是乘了共产党的这个弱点。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>毛泽东此文是为了答复当时党内党外对于农民革命斗争的责难而写的。为了这个目的，毛泽东到湖南做了三十二天的考察工作，并写了这一篇报告。当时党内以陈独秀为首的右倾机会主义者，不愿意接受毛泽东的意见，而坚持自己的错误见解。他们的错误，主要是被国民党的反动潮流所吓倒，不敢支持已经起来和正在起来的伟大的农民革命斗争。为了迁就国民党，他们宁愿抛弃农民这个最主要的同盟军，使工人阶级和共产党处于孤立无援的地位。一九二七年春夏国民党之所以敢于叛变，发动“清党运动”和反人民的战争，主要就是乘了共产党的这个弱点。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[中国社会各阶级的分析]]></title>
         <id>https://igithub.tk/post/zhong-guo-she-hui-ge-jie-ji-de-fen-xi/</id>
